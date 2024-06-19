@@ -1,0 +1,1 @@
+In this project, a Feed Forward neural network deep learning model was employed to classify various heartbeats based on the MIT-BIH Arrhythmia dataset. The ECG data will be preprocessed, pertinent features extracted, and models trained to effectively categorize heartbeats into classes like normal sinus rhythm, atrial fibrillation, premature ventricular contractions, and others.
